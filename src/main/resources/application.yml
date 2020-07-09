@@ -1,0 +1,5 @@
+#spring:
+#  datasource:
+#    url: jdbc:sqlserver://35.203.34.121:1433;database=test_dr
+#    username: sa
+#    password: '[tB.?^@itZ\@W?>'
